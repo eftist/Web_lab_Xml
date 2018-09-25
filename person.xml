@@ -1,0 +1,36 @@
+<persons>
+	<person id='1'>
+		<name>Jhon Deo</name>
+		<address>
+		<home>38 </home>
+		<road> 3</road>
+		<area> Banani</area>
+		<city>Dhaka </city>
+		</address>
+		<department>Sales </department>
+	</person>
+	
+	<person id='2'>
+		<name>Murk Zukurbag</name>
+		<address>
+		<home>A/1, 20 </home>
+		<road> 18</road>
+		<area>Mirpur</area>
+		<city>Dhaka </city>
+		</address>
+		<department>Accounts </department>
+	</person>
+	
+	<person id='3'>
+		<name>Ala Voski</name>
+		<address>
+		<home>38 </home>
+		<road> 3</road>
+		<area> Motijhil</area>
+		<city>Dhaka </city>
+		</address>
+		<department>Human Resource </department>
+	</person>
+	
+	
+</persons>
